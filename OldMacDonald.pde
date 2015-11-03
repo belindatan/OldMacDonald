@@ -1,6 +1,13 @@
 
 void setup()
 {
-	//your variable declarations here
+Farm bob = new Farm();
+
+bob.animalSounds();
+ 
+   
+   
 }
+//your variable declarations here
+
 
